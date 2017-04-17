@@ -1,0 +1,26 @@
+body{
+  background-color: black;
+  font-family: Roboto;
+}
+
+#logo {
+  display: block;
+  margin: 0 auto;
+  width: 100%;
+  max-width: 400px;
+  height: auto;
+}
+
+.main-content{
+  color: white;
+  line-height: 1.5;
+  font-size: 16px;
+  font-weight: 300;
+  text-align: center;
+  margin: 20px 20px 80px 20px;
+}
+
+.main-content p{
+  max-width: 800px;
+  margin: 10px auto;
+}
